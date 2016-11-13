@@ -18,4 +18,3 @@ function matrix($n) {
 
 matrix(6);
 
-//echo chop($row," ");
